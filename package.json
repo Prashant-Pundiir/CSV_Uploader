@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Prashant-Pundiir/CSV_Upload.git"
+    "url": "git+https://github.com/Prashant-Pundiir/CSV_Uploader.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Prashant-Pundiir/CSV_Upload/issues"
+    "url": "https://github.com/Prashant-Pundiir/CSV_Uploader/issues"
   },
-  "homepage": "https://github.com/Prashant-Pundiir/CSV_Upload#readme",
+  "homepage": "https://github.com/Prashant-Pundiir/CSV_Uploader#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
     "csv-parser": "^3.0.0",
