@@ -1,0 +1,4 @@
+﻿student_ID,student_Name,student_College,student_Email,student_Batch,student_Placement_Status,student_DSA_Score,student_Webd_Score,student_React_Score,interview_Date,interview_Company,interview_Result
+"6437dfff9f77d0e7fbc2e015","dev","upes","indrajeetkumarnayak3@gmail.com","aug2022","Placed",80,80,70,"NA","NA","NA"
+"6450ea233587dae2a84f1c1f","raman","upes","raman@gmail.com","MAY 23","Not placed",85,80,75,"NA","NA","NA"
+"6450fba23587dae2a84f1c3b","soumyadeep","iit delhi","soumyadeepsp@gmail.com","JAN 2022","Not placed",99,90,98,"NA","NA","NA"
